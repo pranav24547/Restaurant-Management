@@ -84,7 +84,7 @@ $database = "restaurant_db";
 
 ## 👨‍💻 Developed By
 
-Your Name  
+Your Name  Pranav Thanavel
 B.Tech Computer Science & Engineering  
 
 ---
