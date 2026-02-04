@@ -82,13 +82,11 @@ $database = "restaurant_db";
 
 ---
 
-## 👨‍💻 Developed By
+## 📜 License
 
-Your Name  Pranav Thanavel
-B.Tech Computer Science & Engineering  
+Developed by **Pranav Thanavel**  
+For academic and educational purposes.
 
 ---
 
-## 📄 License
-
-This project is for educational purposes only.
+⭐ If you find this project helpful, consider giving it a star on GitHub!
